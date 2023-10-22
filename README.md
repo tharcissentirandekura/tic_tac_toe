@@ -1,0 +1,1 @@
+This is a tic tac toe game that runs in the console. It is able to declare the winner and the loser but I am still implementing the reseting function so that the user can cancel or play as many tomes as they want.
